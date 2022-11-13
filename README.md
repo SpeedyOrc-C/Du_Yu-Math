@@ -2,7 +2,7 @@
 
 ## 试卷
 
-- [Edexcel 高数](Edexcel)
+- [Edexcel 高数](Edexcel高数)
 
 ## 讲义
 
